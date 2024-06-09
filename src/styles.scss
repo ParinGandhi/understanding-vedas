@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+$saddle-brown: #A54417;
+$tan: #C5A07E;
+$cadet-blue: #7EA8B4;
+$dark-olive-green: #815E4C;
+$black: #080506;
+
+* {
+    font-family: "Titillium Web", sans-serif;
+}
+
+// body {
+//     background-color: $black;
+//     color: $tan;
+// }
+
+// .navbar-color {
+//     background-color: $cadet-blue;
+// }
+
+p.indent {
+    text-indent: 50px;
+}
